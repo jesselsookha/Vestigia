@@ -1,267 +1,302 @@
-# Vestigia — Guide ○ B  
-◆ From Records to Narrative
+# Guide B — From Records to Narrative
+## Extraction, Filtering, and the Two Inputs
 
-## Ⅰ — What Guide ○ B Asks You to Do
+---
 
-Guide ○ A asked you to **pay attention while working**.
+## Ⅰ — What This Guide Asks You to Do
 
-Guide ○ B now asks you to **make deliberate choices**.
+Guide A asked you to pay attention while working.
+
+Guide B now asks you to make deliberate choices about what you captured.
 
 Specifically, you are learning to decide:
 
-◆ what to extract from your records  
-◇ what to extract from your project artefacts  
-◈ what to merge  
-◉ what to leave out  
+◆ what to extract from your Vestigia records  
+◇ what to extract from your formal project artefacts  
+◆ what to connect between the two  
+◇ what to leave out entirely
 
-This guide does not teach you *how to write* your final showcase.
+This guide does not teach you how to write your final showcase.
 
 It teaches you **how to think before you write**.
 
----
-
-## Ⅱ — Two Inputs, One Output
-
-Everything you will present publicly or professionally should come from **two inputs**.
-
-Understanding the difference between them is essential.
+That distinction matters. Students who jump straight to writing produce showcases
+that are either too long, too generic, or too disconnected from the actual project.
+The extraction work you do here is what makes the writing possible — and honest.
 
 ---
 
-### Ⅱ.Ⅰ — Input One: Vestigia Records (Guide ○ A)
+## Ⅱ — The Two Inputs
 
-These are your working traces:
+Everything you present publicly or professionally should emerge from two sources.
+Before you extract anything, be clear about which source you are drawing from
+and what it can reasonably provide.
 
-- notes
-- decisions
-- pivots
-- reflections
-- questions
-- problems
-- partial solutions
+---
+
+### Ⅱ.Ⅰ — Input One: Your Vestigia Records
+
+These are your working traces — the notes, decisions, reflections, pivots, and
+problems you recorded during the project.
 
 They represent **how you thought**.
 
-They are personal, contextual, and often messy.
+They are personal, contextual, often messy, and written for yourself in the moment.
+They are not ready for presentation as they stand — but they contain the raw
+material that no formal report can produce: the reasoning behind decisions, the
+honest account of what went wrong, the moment your understanding shifted.
+
+What Guide A records are good at providing:
+
+◆ decision rationale — why you chose one path over another  
+◇ learning trajectory — how your understanding changed over time  
+◆ honest failure accounts — what went wrong and what you took from it  
+◇ individual contribution evidence — what you specifically initiated and worked on
 
 ---
 
-### Ⅱ.Ⅱ — Input Two: Project Artefacts (The Subject)
+### Ⅱ.Ⅱ — Input Two: Your Project Artefacts
 
-These are formal outputs required by the subject or project:
-
-- proposals
-- reports
-- designs
-- code repositories
-- implementations
-- evaluations
-- presentations
-- meeting notes (WIL, supervision, stand‑ups)
+These are the formal outputs required by your subject or project: proposals,
+reports, designs, code repositories, implementations, evaluations, presentations,
+sprint documentation, meeting minutes, and WIL records.
 
 They represent **what was delivered**.
 
-They are structured, assessed, and shared.
+They are structured, assessed, and shared with supervisors, clients, or markers.
+They carry credibility because they are verifiable — someone else has seen them.
+
+What project artefacts are good at providing:
+
+◆ evidence of outcomes — what was actually built or produced  
+◇ proof of process — that certain work happened within a defined timeframe  
+◆ shared context — the project's scope, requirements, and deliverables  
+◇ external validation — that your work met a standard beyond your own assessment
 
 ---
 
 ### Ⅱ.Ⅲ — The Mistake to Avoid
 
-A common error is to treat one input as sufficient.
+Many students rely on one input and ignore the other.
 
-- Using only artefacts results in:  
-  ◇ generic summaries  
-  ◇ weak reflection  
-  ◇ unclear contribution  
+Using only artefacts produces a showcase that describes what happened but
+cannot explain why. The thinking is absent. The reflection is generic.
+The contribution is indistinguishable from any other student on the same project.
 
-- Using only records results in:  
-  ◇ lack of credibility  
-  ◇ missing outcomes  
-  ◇ insufficient evidence  
+Using only Vestigia records produces a showcase that feels personal and reflective
+but lacks grounding. There are no outcomes to point to. Claims cannot be verified.
 
-Guide ○ B exists to help you **connect the two**.
+Guide B exists to help you connect both inputs into something that is
+simultaneously honest and credible.
 
 ---
 
-## Ⅲ — The Extraction Process (Not a Summary)
+## Ⅲ — The Extraction Filters
 
-Extraction is not summarising everything.
+Extraction is not a summary of everything you did.
 
-It is **identifying moments of significance**.
+It is the act of identifying **moments of significance** — the decisions, problems,
+and learning that actually shaped the project and demonstrate your engagement with it.
 
-Think in terms of **filters**, not sections.
+Think of the following as filters, not sections. You are not expected to produce
+content under each one. You are using them to search your material for what is worth keeping.
 
 ---
 
 ### Ⅲ.Ⅰ — The Decision Filter
 
-Look through your records and artefacts for:
-
-◆ decisions that shaped the project  
-◇ choices that excluded alternatives  
-◈ design or implementation trade‑offs  
+Look through your records and artefacts for decisions that shaped the project's
+direction — not routine choices, but the ones where alternatives were genuinely
+considered and a path was chosen for reasons you can explain.
 
 Ask yourself:
 
-- Which decisions changed the project’s direction?
-- Which decisions required justification?
-- Which decisions would raise questions if left unexplained?
+◆ Which decisions changed what the project became?  
+◇ Which decisions required me to justify them at the time?  
+◆ Which decisions would raise questions if I left them unexplained?  
+◇ Which decisions excluded alternatives that might have worked?
 
-These decisions are often the **core of your narrative**.
+For each decision you identify, you should be able to explain:
+
+- what was decided  
+- what the alternatives were  
+- why this path was chosen  
+- what was accepted as a trade-off or risk
+
+Decisions that meet this standard are the intellectual core of a strong showcase.
+They demonstrate that you were not just executing tasks — you were thinking.
 
 ---
 
 ### Ⅲ.Ⅱ — The Learning Filter
 
-Projects are learning environments, but learning is often hidden.
+Learning is present in every project, but it is usually implicit. Students who
+cannot articulate their learning tend to describe activity instead — a list of
+things they did rather than an account of how they grew.
 
-From your records, extract moments where:
+From your Vestigia records, look for:
 
-◆ assumptions were challenged  
-◇ understanding deepened  
-◈ skills developed  
-◉ thinking matured  
+◆ moments where an assumption was challenged or overturned  
+◇ points where your understanding of the problem deepened  
+◆ skills that developed noticeably during the project  
+◇ entries where your approach changed because you understood something better
 
-From your artefacts, identify where this learning is visible:
-- improved designs
-- refined implementations
-- clearer arguments
-- better evaluations
+Then look for where that learning is visible in your artefacts:
 
-Learning is rarely explicit — Guide ○ B makes it visible.
+- a design that improved after feedback or failure  
+- an implementation that became more robust after a debugging session  
+- a report section that became more precise after you understood the domain better
 
----
-
-### Ⅲ.Ⅲ — The Problem & Resolution Filter
-
-Strong showcases do not hide difficulty.
-
-Identify:
-
-◆ problems that mattered  
-◇ failures that led to change  
-◈ obstacles that required strategy  
-
-Then connect them to:
-- design revisions
-- technical solutions
-- methodological changes
-- improved outcomes
-
-This is where **growth** becomes credible.
+Learning is not a list of technologies you used or tools you learned.
+It is **change over time** — and it is only convincing when you can point to
+both the moment it happened and where it shows up in the work.
 
 ---
 
-### Ⅲ.Ⅳ — The Contribution Filter (Critical for Group Projects)
+### Ⅲ.Ⅲ — The Problem and Resolution Filter
 
-This filter is essential if your project was collaborative.
+Difficulty is expected in a final-year project. Hiding it makes a showcase less
+credible, not more professional. Employers and supervisors understand that projects
+encounter problems — they want to see how you handled them.
 
-From your records:  
-◆ what did *you* initiate?  
-◇ what did *you* decide or implement?  
-◈ where did *you* take responsibility?  
+From your records, identify problems that:
 
-From project artefacts:  
-- which components can be reasonably attributed to you?  
-- where is your influence visible?  
+◆ forced a change in your approach or design  
+◇ produced an insight that improved the project  
+◆ required you to think in a way you had not before
 
-This is not about claiming ownership of the whole project.
-It is about **honest, defensible contribution**.
+For each problem, connect it to its resolution:
 
----
+- what exactly went wrong  
+- why the original approach failed  
+- what was modified or rethought as a result  
+- how the final outcome was affected
 
-## Ⅳ — From Extraction to Narrative
-
-After filtering, what remains are **fragments of significance**.
-
-Your task is not to list them.
-
-Your task is to **connect them**.
-
-A narrative explains:
-
-◆ where the project started  
-◇ how it evolved  
-◈ what changed  
-◉ what resulted  
-
-Chronology alone is not enough.
-
-Meaning arises from **cause, consequence, and reflection**.
+Problems that have no resolution and no learning attached to them do not
+belong in a public showcase. Include what demonstrates growth, not what
+demonstrates difficulty for its own sake.
 
 ---
 
-## Ⅴ — What to Leave Out (An Essential Skill)
+### Ⅲ.Ⅳ — The Contribution Filter
 
-A strong showcase is defined as much by **exclusion** as by inclusion.
+This filter is especially important for group projects. Your showcase is individual
+even when your project was collaborative — which means you must be able to distinguish
+your contribution from the shared work of the team.
 
-You should consciously leave out:
+From your Vestigia records, identify:
 
-- routine activity with no learning value  
-- work done solely by others  
-- repeated struggles with no insight gained    
-- raw notes that require excessive explanation  
+◆ what you initiated rather than inherited  
+◇ what you took responsibility for from start to completion  
+◆ where your decisions influenced the group's direction  
+◇ where your work would leave a visible gap if removed
 
-Guide ○ B values:  
-◆ clarity over completeness    
-◇ insight over volume  
+From your project artefacts:
 
-Restraint is professionalism.
+- which components reflect your direct input  
+- where your thinking is traceable in the final deliverable  
+- which sections of documentation you authored or shaped significantly
+
+This is not about claiming sole credit. It is about being specific and honest
+about what *your* work actually involved. Vague collective language — "we built,"
+"the team decided" — is not useful in an individual showcase.
 
 ---
 
-## Ⅵ — Integrity in Public Presentation
+## Ⅳ — What to Leave Out
 
-As you prepare content for:
-- portfolios  
-- CV links  
-- LinkedIn posts  
-- interviews  
+A strong showcase is defined as much by exclusion as by inclusion.
 
-Remember:
+Once you have applied the filters above, you will likely have more material than
+you need. Some of it will not make the cut. That is correct.
+
+Actively exclude:
+
+◆ routine activity with no learning or decision value  
+◇ work done exclusively by others that you cannot speak to  
+◆ repeated struggles that produced no insight  
+◇ raw notes that would require extensive explanation to be useful  
+◆ anything you cannot confidently defend in a conversation
+
+Exclusion is not dishonesty. It is discernment.
+
+The purpose of a showcase is not to present a complete record of the project.
+It is to present a coherent, honest account of your engagement with it.
+Restraint in selection is a sign of professional judgement.
+
+---
+
+## Ⅴ — From Fragments to Narrative
+
+After applying the filters, you will have a collection of significant moments —
+decisions, learning, problems resolved, contributions made.
+
+Your next task is to connect them.
+
+A narrative is not a list of these moments. It is an explanation of how they
+relate — how a decision led to a problem, how the problem produced a learning
+moment, how that learning improved the outcome.
+
+Chronology alone is not enough. Meaning comes from cause, consequence, and reflection.
+
+Ask yourself:
+
+◆ Where did the project start, and how did my understanding of it change?  
+◇ What shaped the project's direction most significantly?  
+◆ What did I contribute that would not have happened the same way without me?  
+◇ What would I do differently, and what does that tell me about what I learned?
+
+The answers to these questions are your narrative.
+
+---
+
+## Ⅵ — Integrity in Extraction
+
+As you extract and connect material, hold these principles:
 
 ◆ accuracy matters more than impressiveness  
 ◇ attribution matters more than visibility  
-◈ explanation matters more than terminology  
+◆ explanation matters more than technical terminology
 
-You are not presenting perfection.
+You are not presenting a perfect project. You are presenting a thoughtful one.
 
-You are presenting **thoughtful practice**.
+A showcase that is honest about difficulty and specific about learning is far more
+compelling to a potential employer or supervisor than one that claims everything
+went well and every decision was right.
+
+If something you want to include is genuinely ambiguous — shared contribution,
+uncertain outcome, incomplete resolution — address that ambiguity directly.
+Clarity about what you know and what you do not is itself a professional quality.
 
 ---
 
-## Ⅶ — Preparing for the Next Stage
+## Ⅶ — Preparing to Structure
 
-By the end of Guide ○ B, you should have:
+Once your extraction work is done, you will be ready to think about how to
+organise and present what you have found.
 
-◆ a clear set of extracted insights  
-◇ linked each insight to real project evidence  
-◈ distinguished personal contribution from group outcome  
+Before moving to structure, make sure you have:
 
-You are now ready to:
+◆ a small set of high-significance decisions you can explain fully  
+◇ a clear account of how your learning changed over the project  
+◆ specific evidence of your contribution linked to real artefacts  
+◇ an honest account of at least one significant problem and its resolution
 
-- shape a professional narrative  
-- structure a showcase document  
-- link your work publicly with confidence  
-
-Before doing so, you will be guided through **prompts and integrity checks** that help refine what you present and how you present it.
+If any of these feel vague or incomplete, return to the relevant filter.
+Structure built on incomplete extraction produces hollow showcases.
 
 ---
 
 ## Ⅷ — In Summary
 
-Guide ○ B is not about display.
+Guide B asks you to do something harder than documenting: it asks you to judge.
 
-It is about **discernment**.
+Decide what mattered. Decide what explains. Decide what represents you honestly.
 
-You are learning to decide:  
-- what explains your project best  
-- what demonstrates learning authentically  
-- what represents you professionally  
-
-This is the skill that turns work into evidence.
+This judgement — exercised carefully and with integrity — is what transforms
+a body of project records into professional evidence.
 
 ---
 
-◆ Vestigia  
-Tracing the work behind the work
+*Continue to **Guide B — 03: Extraction Prompts** for specific questions and
+integrity checks to guide your work.*
