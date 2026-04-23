@@ -2,19 +2,21 @@
 
 **Tracing the work behind the work**
 
+---
+
 ## What Is Vestigia?
 
-**Vestigia** is a lightweight, discipline‑agnostic framework that supports students in
-documenting, reflecting on, and presenting their final‑year project work.
+**Vestigia** is a structured, discipline-agnostic framework that supports students
+in documenting, reflecting on, and presenting their final-year project work.
 
 It is built on a simple premise:
 
-> A final‑year project is not defined only by its final submission,  
+> A final-year project is not defined only by its final submission,  
 > but by the trail of thinking, decisions, challenges, and growth that leads to it.
 
 Across disciplines, students are expected to plan, research, design, decide, revise,
-solve problems, and reflect.  
-Yet much of this intellectual labour is rarely captured *as it happens*.
+solve problems, and reflect. Yet much of this intellectual labour is rarely captured
+as it happens.
 
 Vestigia exists to change that.
 
@@ -22,70 +24,81 @@ Vestigia exists to change that.
 
 ## The Core Philosophy
 
-Vestigia encourages students to document their projects as **evolving professional journeys**, not static academic artefacts.
+Vestigia encourages students to treat their projects as **evolving professional
+journeys**, not static academic artefacts.
 
 It promotes:
 
-- **Documentation as thinking**, not administration  
-- **Process visibility**, not just polished outcomes  
-- **Reflection during the work**, not only after completion  
-- **Decision traceability**, not hindsight reconstruction  
-- **Ownership of learning**, rather than compliance with format  
+- Documentation as thinking, not administration
+- Process visibility, not just polished outcomes
+- Reflection during the work, not only after completion
+- Decision traceability, not hindsight reconstruction
+- Ownership of learning, not compliance with format
 
-By recording work in this way, students preserve the *footprints* of their project — the
-reasoning, context, and trade‑offs that explain **how** and **why** the project became what it did.
-
----
-
-## A Two‑Phase Approach
-
-Vestigia is organised around two complementary phases:
-
-### Ⅰ — During the Project: Capturing Vestigia
-
-Students record their work as it happens:
-
-- ideas as they emerge  
-- research directions explored  
-- decisions made and revised  
-- challenges encountered  
-- milestones reached  
-- lessons learned in real time  
-
-This phase draws from professional practices such as **log books, lab notebooks, and engineering journals**, modernised for digital, interdisciplinary, and frequently group‑based projects.
-
-This work is supported by **Guide ○ A**.
+By recording work with intention, students preserve the footprints of their project —
+the reasoning, context, and trade-offs that explain how and why the project became
+what it did.
 
 ---
 
-### Ⅱ — After the Project: Interpreting Vestigia
+## How Vestigia Is Organised
 
-Students then transform their accumulated records into:
-
-- a clear project narrative  
-- structured reports or summaries  
-- portfolio‑ready explanations of their work  
-
-This phase focuses on **presentation**, not reconstruction — using what was already captured during the project.
-
-(This phase is supported by a separate guide.)
+Vestigia is structured around two core phases, with an optional collective layer.
 
 ---
 
-## What Vestigia Is *Not*
+### Guide A — During the Project
 
-Vestigia is deliberately **not**:
+Guide A supports students in maintaining working records while they are actively
+developing their projects. It focuses on capturing direction, decisions, trade-offs,
+problems, failures, and reflection as the work unfolds.
 
-- a replacement for institutional project manuals  
-- an assessment rubric or grading tool  
-- a compliance checklist  
-- a fixed format or mandated platform  
-- a submission system or directory  
+This phase draws from established professional practices — log books, lab notebooks,
+and engineering journals — adapted for contemporary, digital, and group-based projects.
 
-It does not tell students *what* to build or *how* to build it.
+Guide A is where the work begins.
 
-Instead, it supports students in **recording how they think while building**, across tools,
-disciplines, and institutional contexts.
+◆ Located in `docs/guide-a/`
+
+---
+
+### Guide B — After the Project
+
+Guide B supports students in making sense of what they recorded. It teaches how to
+extract what matters, connect learning to real project artefacts, and present a
+defensible individual narrative — suitable for portfolios, CVs, and public sharing.
+
+Guide B depends on Guide A. Students who skipped Guide A will find this harder.
+
+◆ Located in `docs/guide-b/`
+
+---
+
+### Part C — Collective Project Practices *(Optional)*
+
+Part C introduces optional patterns for group projects. It currently focuses on
+developing a shared project website that evolves alongside the work, giving
+supervisors, clients, and external readers a window into the project.
+
+Participation is optional and proportionate. Part C does not replace individual
+documentation or individual showcases.
+
+◆ Located in `docs/collective-projects/`
+
+---
+
+## What Vestigia Is Not
+
+Vestigia is deliberately not:
+
+- a replacement for institutional project manuals or handbooks
+- an assessment rubric or grading tool
+- a mandated platform, format, or submission system
+- a compliance checklist
+
+It does not tell students what to build or how to build it.
+
+It supports how students think while building.
 
 ---
 
@@ -93,73 +106,35 @@ disciplines, and institutional contexts.
 
 Vestigia is designed to support projects across disciplines, including:
 
-- Computer Science and Information Technology  
-- Engineering and technical design  
-- AI, data, and research‑driven work  
-- Education, marketing, and applied business projects  
+- Computer Science and Information Technology
+- Engineering and technical design
+- AI, data science, and research-driven projects
+- Education, marketing, UX, and applied business
 
-Its structure is **process‑centred**, not technology‑centred.
-
-The same principles apply whether a student is:
-
-- writing code  
-- designing systems  
-- running experiments  
-- conducting studies  
-- developing strategies or interventions  
+The same principles apply whether a student is writing code, designing systems,
+running experiments, conducting studies, or developing strategies and interventions.
 
 ---
 
-## How This Repository Is Organised
+## For Students
 
-The primary material currently lives under:
-
-```
-/docs/guide-a/
-```
-
-There you will find:
-
-- **Foundations** — the rationale and lineage behind Vestigia  
-- **Guide ○ A** — student‑facing guidance on record‑keeping during the project  
-- **Examples** — annotated, discipline‑specific examples showing how the practice applies in real projects  
-
-These documents together *are* the student guidance.
-
-No separate student README is required.
+Start with **Guide A** when your project begins.  
+Move to **Guide B** when you are preparing your showcase or portfolio.  
+Consider **Part C** if your group wants to build a shared project presence.
 
 ---
 
 ## For Lecturers and Supervisors
 
-Vestigia sits **alongside**, not inside, formal subjects or modules.
+Vestigia sits alongside existing modules without requiring structural change. It does
+not add assessment burden, does not mandate tools, and does not compete with
+institutional documentation.
 
-It does not require changes to assessment, tools, or teaching approaches.
-Instead, it offers a scaffold that may help students:
-
-- arrive at supervision meetings with clearer evidence  
-- write stronger justification and reflection sections  
-- articulate individual contributions within group projects  
-
-A short lecturer‑only contextual note is included within the documentation for staff who would like additional background.
-
----
-
-## Looking Ahead (Without Pressure)
-
-When students learn to document their work well:
-
-- final reports improve naturally  
-- reflections become more authentic  
-- presentations become clearer  
-- portfolios gain depth  
-- academic work becomes reusable beyond graduation  
-
-If, in future, a showcase or directory emerges from this work, it does so as a **by‑product
-of good documentation — not as the goal**.
+A short contextual note for staff is included within `docs/guide-a/`.
 
 ---
 
 ## In One Sentence
 
-**Vestigia helps students trace, preserve, and present the thinking behind their final‑year projects — turning academic work into enduring professional evidence.**
+**Vestigia helps students trace, preserve, and present the thinking behind their
+final-year projects — turning academic work into enduring professional evidence.**
