@@ -1,128 +1,126 @@
-# Vestigia — Lecturer Context (Guide ○ A)
+# Guide A — A Note for Lecturers and Supervisors
 
 ## Purpose of This Document
 
-This short note is intended **for lecturers, supervisors, and module coordinators**  
-who may encounter this repository while supporting final‑year or capstone projects.
+This short note is intended for lecturers, supervisors, and module coordinators
+who encounter this repository while supporting final-year or capstone project students.
 
-It provides context for *why* Vestigia exists, *what it is designed to support*, and  
-*what it deliberately does not attempt to replace*.
+It provides context for what Vestigia is, what Guide A specifically is designed
+to support, and — importantly — what it does not attempt to replace or compete with.
 
 ---
 
 ## What Vestigia Is
 
-**Vestigia** is a lightweight, discipline‑agnostic framework that supports students in:
+Vestigia is a lightweight, discipline-agnostic framework that supports students in:
 
-- recording project work as it happens  
-- making decisions, assumptions, and learning visible  
-- reflecting *during* the project, not only at the end  
+◆ recording project work as it happens  
+◇ making decisions, assumptions, and learning visible over time  
+◆ reflecting during the project, not only at submission time  
+◇ preparing material that can be used for professional showcases after graduation
 
-In essence, Vestigia modernises the long‑standing tradition of:
+In essence, Vestigia modernises a long-standing academic and professional tradition:
+the engineering log book, the lab notebook, the project diary. It adapts this
+tradition for contemporary, digital, and often group-based student projects.
 
-- engineering log books  
-- lab notebooks  
-- project journals  
-
-by adapting these practices to contemporary, digital, and often **group‑based** student projects.
-
-The focus is not on producing additional artefacts, but on **supporting thinking, traceability, and reflection** behind the work students are already required to do.
+The focus is not on producing additional artefacts. It is on supporting the quality
+of thinking, traceability, and reflection that sits behind the work students are
+already required to do.
 
 ---
 
 ## What Vestigia Is Not
 
-Vestigia is intentionally designed **outside** formal subject structures.
+Vestigia is intentionally positioned outside formal subject structures.
 
-It does **not**:
+It does not:
 
-- replace module or programme handbooks  
-- prescribe assessment criteria or marking rubrics  
-- mandate tools, platforms, or formats  
-- add compulsory deliverables  
-- compete with institutional documentation or WIL (*Work Integrated Learning*) frameworks  
+◆ replace module or programme handbooks  
+◇ prescribe assessment criteria or marking rubrics  
+◆ mandate tools, platforms, or submission formats  
+◇ add compulsory deliverables to the subject  
+◆ compete with or duplicate institutional documentation or WIL frameworks
 
-Students may use it privately, selectively, or not at all.
-
----
-
-## Why It May Be Useful in Final‑Year Projects
-
-Across institutions and disciplines, final‑year projects typically require students to demonstrate:
-
-- justified technical or pedagogical decisions  
-- professional practice (often under WIL (*Work Integrated Learning*) expectations)  
-- individual contribution within group work  
-- reflective capacity  
-
-In practice, many students struggle not with *doing* the work, but with **making the work explainable**.
-
-Vestigia addresses the space between:
-
-> *project activity* → *project explanation*
-
-By encouraging brief, regular records, students often arrive at:
-
-- supervisor meetings with clearer evidence  
-- stronger justification in reports  
-- less generic reflective writing  
-- more defensible portfolios or viva responses  
-
-without additional assessment burden.
+Students may use it privately, selectively, or not at all. There is no expectation
+of enforcement or monitoring by staff.
 
 ---
 
-## How Guide ○ A Fits In
+## Why This May Be Useful
 
-**Guide ○ A** focuses specifically on *record‑keeping during the project*.
+Across institutions and disciplines, final-year projects ask students to demonstrate
+justified decisions, professional practice, reflective capacity, and individual
+contribution within group work.
 
-It supports students to capture:
+In practice, many students struggle not with doing the work, but with explaining it.
 
-- direction and intent  
-- decisions and trade‑offs  
-- work performed  
-- problems and failures  
-- reflection in motion  
+Vestigia addresses the gap between project activity and project explanation.
 
-These areas align naturally with typical expectations found in:
+By encouraging brief, regular records during the project, students often arrive at:
 
-- project proposals  
-- progress meetings  
-- risk analyses  
-- design or methodology sections  
-- reflective assessments  
+◆ supervision meetings with more specific evidence to discuss  
+◇ stronger justification in report sections  
+◆ more grounded and authentic reflective writing  
+◇ clearer articulation of individual contribution in group projects  
+◆ better preparation for viva, oral assessments, and interviews
 
-The guide is deliberately discipline‑agnostic and includes annotated examples from:
+This tends to benefit supervision conversations as well. Students who have been
+recording their thinking arrive prepared with specifics, not generalities.
 
-- Engineering  
-- Computer Science / IT  
-- Education  
-- UI/UX and Marketing‑oriented IT projects  
+---
+
+## What Guide A Contains
+
+Guide A is structured as three documents:
+
+**01 — Foundations**  
+Establishes the philosophical and historical basis for Vestigia — its relationship
+to the log book and engineering journal tradition, and how it modernises that practice
+for contemporary project work. Suitable for students who want context, and for
+lecturers who want to understand the intellectual positioning.
+
+**02 — The Guide**  
+The student-facing, actionable guide. Covers what to record, when to record it,
+how often, and in what format. Written primarily for CS, IT, and Engineering students
+but applicable across disciplines.
+
+**03 — Living Examples**  
+Annotated examples from four disciplines: Engineering, Computer Science / IT,
+Education, and UX / Marketing. Each example includes the living record itself,
+an individual and group perspective analysis, and explicit mapping to subject
+deliverables and assessment expectations.
 
 ---
 
 ## Individual and Group Projects
 
-Vestigia recognises that many final‑year projects are group‑based.
+Vestigia recognises that most final-year projects are group-based.
 
-It supports **both**:
+It supports both:
 
-- individual records (supporting accountability, reflection, and contribution evidence)  
-- group understanding (supporting decision traceability and shared context)  
+◆ individual records — supporting accountability, authentic reflection, and
+  contribution evidence for individual assessment components  
+◇ group understanding — supporting decision traceability and shared context
+  across team members
 
-It does not enforce a single shared log, mirroring professional practice where:
+It does not enforce or require a single shared group log. Students maintain
+individual records. Teams benefit from the culture those records create.
 
-- individuals maintain working records  
-- teams produce shared deliverables  
+This mirrors professional practice, where individuals keep working notes and
+teams produce shared deliverables.
 
 ---
 
-## Positioning
+## A Note on Positioning
 
-Vestigia is offered as a **supportive scaffold**, not an institutional mandate.
+Vestigia is offered as a supportive scaffold, not an institutional mandate.
 
-At minimum, it may help students organise their thinking more clearly.  
-At best, it can quietly improve the quality of project discussion, documentation, and reflection.
+It sits alongside existing modules and does not require changes to assessment,
+teaching approach, or administrative structure.
+
+At minimum, it may help students organise their thinking more clearly.
+At best, it can quietly improve the quality of project discussion, documentation,
+and reflection — without adding workload for staff or students.
 
 Engagement with this material is entirely at professional discretion.
 
@@ -130,13 +128,10 @@ Engagement with this material is entirely at professional discretion.
 
 ## Closing
 
-This repository is shared in the spirit of collegial practice and reflective teaching.
+This repository is shared in the spirit of collegial practice.
 
-If you find elements useful, adaptable, or worth discussing with students — that is sufficient.
+If elements of it are useful, adaptable, or worth discussing with students,
+that is sufficient. No endorsement, formal adoption, or curriculum alignment is
+assumed or expected.
 
-No endorsement, adoption, or alignment is assumed.
-
----
-
-**Vestigia**  
-Tracing the work behind the work
+If you have questions, observations, or suggestions, they are genuinely welcome.
