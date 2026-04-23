@@ -1,175 +1,193 @@
-# Vestigia — Guide ○ A  
-◆ Mapping the Log Book Tradition to Modern Project Practice
+# Guide A — Foundations
+## The Record-Keeping Tradition Behind Vestigia
 
----
+## Ⅰ — What This Document Is
 
-## Ⅰ — Purpose of This Mapping
+This document establishes the foundation beneath Guide A.
 
-Vestigia Guide ○ A is not a departure from established academic or engineering traditions.  
-It is a continuation.
+It is not a set of instructions. It explains *why* the practice of record-keeping
+during a project has a long history, where Vestigia sits within that tradition,
+and why it matters for the kind of work you are doing now.
 
-This document explicitly maps **Guide ○ A** to the historical and institutional practice of the **log book**, demonstrating:
-
-◆ where Vestigia aligns with long‑standing expectations  
-◇ where it modernises practice for contemporary project work  
-◈ why this evolution strengthens learning, professionalism, and assessment integrity  
+Read this once. Return to it if you need to remind yourself why the effort is worthwhile.
 
 ---
 
 ## Ⅱ — The Traditional Log Book
 
-The log book (also referred to as an *engineering notebook*, *lab book*, or *project diary*) has historically served as:
+The practice of maintaining a working record during a project is not new.
 
-◆ a chronological record of work performed  
-◆ evidence of intellectual ownership and decision‑making  
-◆ a communication tool between student and supervisor  
-◆ a legal and professional artefact in engineering and research contexts  
+Across engineering, science, research, and professional practice, students and
+practitioners have long been expected to keep some form of documented record
+as work progresses — not at the end, but *throughout*.
 
-### Core characteristics of the traditional log book include:
+These records have taken different forms across disciplines and institutions:
 
-◈ dated entries  
-◈ continuous records (no gaps or rewrites)  
-◈ documentation of successes *and* failures  
-◈ sketches, calculations, notes, meeting records  
-◈ supervisor review and sign‑off  
+- the engineering notebook
+- the lab book
+- the project diary
+- the field journal
+- the design log
 
-These expectations remain present — explicitly or implicitly — in modern final‑year project assessment.
+The names differ. The underlying purpose does not.
 
----
+### What these records were expected to contain:
 
-## Ⅲ — The Problem With Modern Log Books
+◆ dated, sequential entries  
+◆ evidence of decisions and the reasoning behind them  
+◆ documentation of both progress and failure  
+◆ notes on meetings, instructions received, and direction changes  
+◆ a traceable account of intellectual ownership
 
-While the *intent* of log books persists, the *form* has become misaligned with how students now work.
+In many professional and academic contexts, these records carried weight beyond
+assessment — they were legal and professional artefacts. They answered the question:
 
-Common issues include:
-
-⚊ students reconstructing logs retrospectively  
-⚋ documentation scattered across tools (Git, notebooks, chats, documents)  
-⚌ reflection delayed until submission time  
-⚍ log books treated as compliance artefacts rather than thinking tools  
-⚎ difficulty translating raw logs into final reports and presentations  
-
-The result is not a failure of students, but a **mismatch between tradition and practice**.
+> *Who thought of this, when, and why?*
 
 ---
 
-## Ⅳ — Vestigia’s Position
+## Ⅲ — Why the Tradition Has Broken Down
 
-Vestigia does not reject the log book.
+The intent of log books persists in modern final-year project expectations.
+The practice, however, has become misaligned with how students actually work.
 
-Vestigia **refines its role**.
+Common problems include:
 
-Guide ○ A preserves the *function* of the log book while removing unnecessary friction caused by outdated assumptions about medium, format, and workflow.
+◆ records reconstructed after the fact, from memory  
+◇ documentation scattered across tools — Git commits, chat threads, notebooks, emails  
+◆ reflection delayed until submission time, producing generic or sanitised accounts  
+◇ log books treated as compliance artefacts rather than thinking tools  
+◆ difficulty translating raw working notes into final reports and presentations
 
----
+This is not a failure of students.
 
-## Ⅴ — One‑to‑One Mapping
-
-### Traditional Log Book → Vestigia Guide ○ A
-
-✻ **Chronological record**  
-⩪  
-Vestigia explicitly encourages dated, sequential entries, regardless of tool or format.
-
-✻ **Record of ideas and failures**  
-⩫  
-Vestigia normalises uncertainty, false starts, and abandoned paths as valid entries.
-
-✻ **Evidence of decision‑making**  
-⩬  
-Vestigia introduces lightweight decision records:  
-- what was chosen  
-- why it was chosen  
-- what alternatives were considered  
-
-✻ **Supervisor visibility**  
-⩭  
-Vestigia allows selective sharing of entries without requiring full exposure of personal working notes.
-
-✻ **Professional accountability**  
-⩮  
-Vestigia treats documentation as a professional habit, not an academic afterthought.
+It is a mismatch between a tradition designed for one kind of work environment
+and the reality of contemporary, distributed, digitally mediated project work.
 
 ---
 
-## Ⅵ — Where Vestigia Modernises the Log Book
+## Ⅳ — What Vestigia Does
 
-The following shifts are intentional and pedagogically motivated.
+Vestigia does not reject the log book tradition.
 
----
+It refines its purpose and removes the friction that has made the tradition feel
+irrelevant to modern students.
 
-### Ⅵ.Ⅰ — From Bound Books to Living Records
+Guide A preserves what mattered about log books — evidence, thinking, continuity —
+while freeing you from format assumptions that no longer serve you.
 
-Traditional log books assumed:
+### What remains the same:
 
-⚊ paper  
-⚋ permanence  
-⚎ physical review  
+◆ records are dated and sequential  
+◆ decisions and their reasoning are documented  
+◆ failures and dead ends are captured honestly  
+◆ the record belongs to the person doing the work
 
-Vestigia assumes:
+### What changes:
 
-⩰ digital‑first work  
-⩱ versioned tools  
-⩲ iterative refinement  
-
-What matters is **continuity of thinking**, not the container.
-
----
-
-### Ⅵ.Ⅱ — From Daily Activity to Meaningful Milestones
-
-Rather than documenting *everything indiscriminately*, Vestigia encourages:
-
-◆ moments of decision  
-◆ pivots and revisions  
-◆ completed milestones  
-◆ unresolved questions  
-
-This reduces noise while preserving insight.
+◇ the medium is your choice — digital, markdown, notebook, whatever works  
+◇ you record meaningful moments, not everything indiscriminately  
+◇ entries serve two audiences: yourself during the work, and readers after it  
+◇ the record feeds directly into your final presentation and showcase
 
 ---
 
-### Ⅵ.Ⅲ — From Private Diary to Interpretable Record
+## Ⅴ — The Two Audiences of a Good Record
 
-Vestigia recognises that log books serve *two audiences*:
+One of the most important shifts Vestigia asks you to make is this:
 
-◇ the student (during the work)  
-◇ the reader (after the work)
+> Write as if your future self will need to explain this to someone else.
 
-Guide ○ A helps students write entries that are:
+Your entries are primarily for *you* — to think, to track, to reflect.
 
-⩳ legible to their future selves  
-⩴ interpretable without heavy rewriting  
-⩵ convertible into reports and portfolios  
+But they should be legible enough that:
 
----
+◆ you can return to them weeks later and understand what you meant  
+◇ they can be selectively shared with a supervisor or teammate  
+◆ they can feed directly into report sections without total rewriting  
+◇ they support your individual showcase at the end of the project
 
-## Ⅶ — Pedagogical Impact
-
-By aligning with log book tradition *and* modern practice, Guide ○ A:
-
-◆ encourages authentic reflection during the project, not after  
-◆ improves the quality of final reports without prescribing structure  
-◆ supports academic integrity through traceability  
-◆ mirrors professional documentation habits used beyond university  
-
-Importantly, it does this **without increasing assessment burden**.
+This dual awareness — private thinking tool *and* professional record — is what
+distinguishes a Vestigia record from a diary.
 
 ---
 
-## Ⅷ — In Summary
+## Ⅵ — Individual Records Within Group Projects
 
-Vestigia Guide ○ A is best understood as:
+Most final-year projects involve group work. Vestigia is designed with this in mind.
 
-◈ a modern log book framework  
-◈ rooted in established academic practice  
-◈ adapted for distributed, digital, interdisciplinary work  
+Your records are **individual**. Your project may be collaborative.
 
-It preserves what mattered about log books —  
-**evidence, thinking, continuity** —  
-while freeing students from formats that no longer serve them.
+This is not a contradiction — it mirrors professional practice.
+
+In industry, engineers keep personal notebooks. Developers keep personal notes.
+Teams produce shared deliverables. Both exist simultaneously.
+
+Your individual Vestigia records serve you specifically:
+
+◆ they document *your* thinking, *your* decisions, *your* contribution  
+◇ they protect *your* reflection from being generic or reconstructed  
+◆ they give you defensible, specific material for individual assessment components  
+◇ they prepare *you* for interviews, portfolios, and presentations
+
+At the same time, a culture of good individual record-keeping within a group produces
+better group outcomes — clearer decision trails, less repeated discussion, more
+grounded meetings.
 
 ---
 
-◆ Vestigia  
-Tracing the work behind the work
+## Ⅶ — Where Guide A Fits in the Vestigia System
+
+Vestigia is organised around two phases:
+
+**Guide A** is the first phase. It runs *during* the project.  
+It asks: *What is worth capturing, and how should I capture it?*
+
+**Guide B** is the second phase. It begins when the project ends.  
+It asks: *What do I do with what I recorded?*
+
+Guide B depends on Guide A. The quality of what you can present professionally
+later is directly shaped by the quality of what you record now.
+
+This is why Guide A is where the work *actually* begins.
+
+---
+
+## Ⅷ — A Note on Discipline
+
+Guide A is written primarily with Computer Science, IT, and Engineering students in
+mind — disciplines where the log book tradition is most deeply rooted.
+
+However, the practice is transferable. If your project involves decisions, iteration,
+and learning over time — regardless of discipline — Guide A applies to you.
+
+The thinking habits it builds are not subject-specific.
+
+They are professional.
+
+---
+
+## Ⅸ — In Summary
+
+Vestigia Guide A is a modern form of a long-established professional practice.
+
+It preserves what log books were always meant to do:
+
+◆ create a traceable record of thinking  
+◇ document decisions at the moment they are made  
+◆ capture failure and revision honestly  
+◇ produce material that supports future explanation and reflection
+
+It removes what made log books difficult:
+
+◆ rigid format requirements  
+◇ the expectation that everything must be recorded  
+◆ the assumption of a single, shared medium
+
+What remains is the habit that matters:
+
+> Pay attention to your work while you are doing it.  
+> Write it down. Date it. Be honest.  
+> Your future self will thank you.
+
+Continue to **Guide A — 02: The Guide** to begin.
