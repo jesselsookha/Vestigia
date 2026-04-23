@@ -74,7 +74,7 @@ Guide B depends on Guide A. Students who skipped Guide A will find this harder.
 
 ---
 
-### Part C — Collective Project Practices *(Optional)*
+### Part C — Shared Presence Practices *(Optional)*
 
 Part C introduces optional patterns for group projects. It currently focuses on
 developing a shared project website that evolves alongside the work, giving
@@ -83,7 +83,7 @@ supervisors, clients, and external readers a window into the project.
 Participation is optional and proportionate. Part C does not replace individual
 documentation or individual showcases.
 
-◆ Located in `docs/collective-projects/`
+◆ Located in `docs/shared-presence/`
 
 ---
 
