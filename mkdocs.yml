@@ -1,0 +1,95 @@
+site_name: Vestigia
+site_description: A framework for recording, reflecting on, and presenting final-year project work
+site_url: https://jesselsookha.github.io/Vestigia/
+repo_url: https://github.com/jesselsookha/Vestigia
+repo_name: jesselsookha/Vestigia
+edit_uri: ""
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  logo: assets/vestigia-logo.svg
+  favicon: assets/favicon.png
+
+  font:
+    text: Fira Sans
+    code: Fira Code
+
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jesselsookha/Vestigia
+  generator: false
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+
+  - Guide A:
+    - guide-a/index.md
+    - Foundations: guide-a/01-foundations.md
+    - The Guide: guide-a/02-guide.md
+    - Living Examples: guide-a/03-examples.md
+
+  - Guide B:
+    - guide-b/index.md
+    - Foundations: guide-b/01-foundations.md
+    - From Records to Narrative: guide-b/02-guide.md
+    - Extraction Prompts: guide-b/03-extraction-prompts.md
+    - From Fragments to Showcase: guide-b/04-from-fragments-to-showcase.md
+    - Integrity and Attribution: guide-b/05-integrity-and-attribution.md
+
+  - Shared Presence:
+    - shared-presence/index.md
+    - What Is a Shared Presence: shared-presence/01-what-is-a-shared-presence.md
+    - Building a Project Website: shared-presence/02-project-website.md
+    - Other Disciplines: shared-presence/03-other-disciplines.md
+
+  - For Lecturers:
+    - for-lecturers/index.md
+    - What Vestigia Is: for-lecturers/01-what-vestigia-is.md
+    - How It Works: for-lecturers/02-how-it-works.md
+    - Mentioning It to Students: for-lecturers/03-mentioning-it-to-students.md
+    - Assessment and Integration: for-lecturers/04-assessment-and-integration.md
