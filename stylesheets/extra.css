@@ -1,0 +1,340 @@
+/* ============================================================
+   Vestigia — Custom Stylesheet
+   Material for MkDocs theme override
+   Part of the Itan / Vestigia open educational ecosystem
+   ============================================================ */
+
+/* ------------------------------------------------------------
+   Google Fonts Import
+   ------------------------------------------------------------ */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Fira+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&family=Montserrat:wght@500;600;700;800&display=swap');
+
+/* ------------------------------------------------------------
+   Colour Palette — Custom Properties
+   Shared with Itan for ecosystem visual consistency
+   ------------------------------------------------------------ */
+:root {
+  --itan-deep-space:    #002642;
+  --itan-deep-slate:    #0A1628;
+  --itan-amaranth:      #840032;
+  --itan-golden:        #E59500;
+  --itan-dust-grey:     #E5DADA;
+  --itan-warm-white:    #F8F5F5;
+}
+
+/* ------------------------------------------------------------
+   Typography — Body and Headings
+   ------------------------------------------------------------ */
+body,
+.md-typeset {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+.md-typeset h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--itan-deep-space);
+}
+
+.md-typeset h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--itan-deep-space);
+}
+
+.md-typeset h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  color: var(--itan-deep-space);
+}
+
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+
+/* ------------------------------------------------------------
+   Monospace — Fira Code for code blocks
+   ------------------------------------------------------------ */
+code,
+pre,
+.md-typeset code,
+.md-typeset pre {
+  font-family: 'Fira Code', monospace;
+  font-size: 0.88rem;
+}
+
+/* ------------------------------------------------------------
+   Light Mode — Colour Overrides
+   ------------------------------------------------------------ */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        var(--itan-deep-space);
+  --md-primary-fg-color--light: #1a4a6e;
+  --md-primary-fg-color--dark:  var(--itan-deep-slate);
+  --md-primary-bg-color:        var(--itan-warm-white);
+  --md-accent-fg-color:         var(--itan-amaranth);
+
+  /* Page background */
+  --md-default-bg-color:        var(--itan-warm-white);
+
+  /* Link colours */
+  --md-typeset-a-color:         var(--itan-amaranth);
+}
+
+/* Light mode headings */
+[data-md-color-scheme="default"] .md-typeset h1,
+[data-md-color-scheme="default"] .md-typeset h2,
+[data-md-color-scheme="default"] .md-typeset h3 {
+  color: var(--itan-deep-space);
+}
+
+/* ------------------------------------------------------------
+   Dark Mode — Colour Overrides
+   ------------------------------------------------------------ */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        var(--itan-deep-slate);
+  --md-primary-fg-color--light: var(--itan-deep-space);
+  --md-primary-fg-color--dark:  #040d18;
+  --md-primary-bg-color:        var(--itan-warm-white);
+  --md-accent-fg-color:         var(--itan-golden);
+
+  /* Page background */
+  --md-default-bg-color:        #0f1e30;
+
+  /* Link colours */
+  --md-typeset-a-color:         var(--itan-golden);
+}
+
+/* Dark mode headings */
+[data-md-color-scheme="slate"] .md-typeset h1,
+[data-md-color-scheme="slate"] .md-typeset h2,
+[data-md-color-scheme="slate"] .md-typeset h3 {
+  color: var(--itan-dust-grey);
+}
+
+/* ------------------------------------------------------------
+   Header and Navigation — Gradient Background
+   ------------------------------------------------------------ */
+.md-header {
+  background: linear-gradient(
+    135deg,
+    var(--itan-deep-space) 0%,
+    var(--itan-deep-slate) 100%
+  );
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+}
+
+/* Site title in header */
+.md-header__title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+/* Navigation tabs bar */
+.md-tabs {
+  background: linear-gradient(
+    135deg,
+    var(--itan-deep-slate) 0%,
+    #0d2035 100%
+  );
+  border-top: 1px solid rgba(229, 149, 0, 0.25);
+}
+
+/* Tab items */
+.md-tabs__item {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 500;
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+  text-transform: none;
+}
+
+/* Active tab — golden underline */
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: var(--itan-golden) !important;
+  opacity: 1;
+}
+
+.md-tabs__link--active::after {
+  background-color: var(--itan-golden);
+}
+
+/* ------------------------------------------------------------
+   Navigation Tabs — Prevent Overflow on Desktop
+   ------------------------------------------------------------ */
+.md-tabs__list {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  scrollbar-width: none;        /* Firefox */
+  -ms-overflow-style: none;     /* IE/Edge */
+}
+
+.md-tabs__list::-webkit-scrollbar {
+  display: none;                /* Chrome/Safari */
+}
+
+/* Tighten horizontal padding on each tab to gain space */
+.md-tabs__item {
+  padding: 0 0.6rem;
+}
+
+/* ------------------------------------------------------------
+   Left Navigation Sidebar
+   ------------------------------------------------------------ */
+.md-nav__title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: var(--itan-deep-space);
+}
+
+.md-nav__link--active,
+.md-nav__link:hover {
+  color: var(--itan-amaranth);
+}
+
+[data-md-color-scheme="slate"] .md-nav__title {
+  color: var(--itan-dust-grey);
+}
+
+[data-md-color-scheme="slate"] .md-nav__link--active,
+[data-md-color-scheme="slate"] .md-nav__link:hover {
+  color: var(--itan-golden);
+}
+
+/* ------------------------------------------------------------
+   Admonition Blocks — Custom Accent Colours
+   ------------------------------------------------------------ */
+
+/* tip — golden */
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  border-color: var(--itan-golden);
+}
+.md-typeset .tip > .admonition-title,
+.md-typeset .tip > summary {
+  background-color: rgba(229, 149, 0, 0.12);
+}
+.md-typeset .tip > .admonition-title::before,
+.md-typeset .tip > summary::before {
+  background-color: var(--itan-golden);
+}
+
+/* note — deep space blue */
+.md-typeset .admonition.note,
+.md-typeset details.note {
+  border-color: var(--itan-deep-space);
+}
+.md-typeset .note > .admonition-title,
+.md-typeset .note > summary {
+  background-color: rgba(0, 38, 66, 0.08);
+}
+.md-typeset .note > .admonition-title::before,
+.md-typeset .note > summary::before {
+  background-color: var(--itan-deep-space);
+}
+
+/* warning — amaranth */
+.md-typeset .admonition.warning,
+.md-typeset details.warning {
+  border-color: var(--itan-amaranth);
+}
+.md-typeset .warning > .admonition-title,
+.md-typeset .warning > summary {
+  background-color: rgba(132, 0, 50, 0.08);
+}
+.md-typeset .warning > .admonition-title::before,
+.md-typeset .warning > summary::before {
+  background-color: var(--itan-amaranth);
+}
+
+/* ------------------------------------------------------------
+   Blockquote — Pullout Style
+   ------------------------------------------------------------ */
+.md-typeset blockquote {
+  border-left: 4px solid var(--itan-golden);
+  background-color: rgba(229, 149, 0, 0.06);
+  padding: 0.75rem 1.25rem;
+  border-radius: 0 4px 4px 0;
+  font-style: italic;
+  color: inherit;
+}
+
+/* ------------------------------------------------------------
+   Tables
+   ------------------------------------------------------------ */
+.md-typeset table:not([class]) {
+  border: 1px solid var(--itan-dust-grey);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--itan-deep-space);
+  color: var(--itan-warm-white);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+}
+
+.md-typeset table:not([class]) tr:nth-child(even) {
+  background-color: rgba(229, 218, 218, 0.25);
+}
+
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
+  background-color: var(--itan-deep-slate);
+}
+
+/* ------------------------------------------------------------
+   Horizontal Rules — Subtle Accent
+   ------------------------------------------------------------ */
+.md-typeset hr {
+  border-color: var(--itan-dust-grey);
+  opacity: 0.6;
+}
+
+/* ------------------------------------------------------------
+   Footer
+   ------------------------------------------------------------ */
+.md-footer {
+  background: linear-gradient(
+    135deg,
+    var(--itan-deep-slate) 0%,
+    var(--itan-deep-space) 100%
+  );
+}
+
+.md-footer-meta {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+/* ------------------------------------------------------------
+   Content Width — Slightly Wider for Readability
+   ------------------------------------------------------------ */
+.md-grid {
+  max-width: 1280px;
+}
+
+/* ------------------------------------------------------------
+   Mobile Adjustments
+   ------------------------------------------------------------ */
+@media screen and (max-width: 76.1875em) {
+  .md-nav--primary .md-nav__title {
+    background: linear-gradient(
+      135deg,
+      var(--itan-deep-space) 0%,
+      var(--itan-deep-slate) 100%
+    );
+    color: var(--itan-warm-white);
+  }
+}
